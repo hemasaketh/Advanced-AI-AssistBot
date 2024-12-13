@@ -1,8 +1,9 @@
-<h2 style="font-size: 32px; font-weight: bold;">AI Assistant Bot</h2>
+# AI Assistant Bot
 
+## Project Overview
 This project is a chatbot that utilizes Google's Gemini API for AI-powered responses. The application allows users to input messages, send files (images), and get real-time responses from an AI model. It uses JavaScript, HTML, and CSS for the frontend, and integrates with Google's Gemini API via a generated API key.
 
-<h3 style="font-size: 28px; font-weight: bold;">Features</h3>
+## Features
 
 - **User Input:** Capture user input via text and send it to the Google Gemini API.
 - **File Upload:** Allows users to upload images along with their messages.
@@ -11,7 +12,7 @@ This project is a chatbot that utilizes Google's Gemini API for AI-powered respo
 - **API Integration:** Sends user messages and files to Google's Gemini API for AI-powered content generation.
 - **Dynamic Display:** Responses are dynamically injected into the chat area after the AI processes the input.
 
-<h3 style="font-size: 28px; font-weight: bold;">Technologies Used</h3>
+## Technologies Used
 
 - **JavaScript** - Handles logic for sending requests and updating the UI.
 - **HTML5** - Provides the structure of the application.
